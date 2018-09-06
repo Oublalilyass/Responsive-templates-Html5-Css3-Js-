@@ -66,3 +66,10 @@ $("#mydiv").getNiceScroll().resize();
 // 8. Scrolling to a position:
 $("#mydiv").getNiceScroll(0).doScrollLeft(x, duration); // Scroll X Axis
 $("#mydiv").getNiceScroll(0).doScrollTop(y, duration); // Scroll Y Axis
+
+----------------------------------------
+*Web Site: nicescroll.areaaperta.com
+-----------------------------------
+-------------
+---
+-
